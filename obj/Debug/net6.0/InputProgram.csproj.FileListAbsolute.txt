@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\InputProgram\bin\Debug\net6.0\InputProgram.exe
+C:\Users\ASUS\source\repos\InputProgram\bin\Debug\net6.0\InputProgram.deps.json
+C:\Users\ASUS\source\repos\InputProgram\bin\Debug\net6.0\InputProgram.runtimeconfig.json
+C:\Users\ASUS\source\repos\InputProgram\bin\Debug\net6.0\InputProgram.dll
+C:\Users\ASUS\source\repos\InputProgram\bin\Debug\net6.0\InputProgram.pdb
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.dll
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\refint\InputProgram.dll
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.pdb
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\InputProgram.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\InputProgram\obj\Debug\net6.0\ref\InputProgram.dll
